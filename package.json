@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.49.0"
     },
+    "publisher": "Marcode",
+    "repository": {
+        "url": "https://github.com/mxrcochxvez/hacktober-theme"
+    },
     "categories": [
         "Themes"
     ],
