@@ -1,0 +1,21 @@
+{
+    "name": "hacktober-theme",
+    "displayName": "hacktober-theme",
+    "description": "A halloween theme to get you into the hacktoberfest festivity",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hacktober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacktober-color-theme.json"
+            }
+        ]
+    }
+}
